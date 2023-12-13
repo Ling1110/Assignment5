@@ -25,5 +25,8 @@
   "devDependencies": {
     "tailwindcss": "^3.3.6"
   },
+  "engines": {
+    "node": ">=16.9.0"
+  },
   "description": ""
 }
